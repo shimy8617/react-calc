@@ -1,0 +1,12 @@
+.screen {
+    height: 4rem;
+    padding: 1rem 4rem;
+    margin-bottom: 1.5rem;
+    background-color: rgb(213, 223, 223);
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    border: none;
+    border-radius: 1.5rem;
+    color: rgb(45, 45, 45)
+}
